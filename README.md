@@ -1,4 +1,4 @@
-<img width="1280" height="516" alt="bottom and top base" src="https://github.com/user-attachments/assets/a72bf673-bdfa-46b3-bd8a-dae29594d746" />**Bilal’s MacroPad v2**  
+/>**Bilal’s MacroPad v2**  
 It is my first ever engineering-related project and I think I did really good. It consists of 6 keys using Seeed XIAO RP2040 with a rotary encoder and custom built case.
 
 It will be helping me making my time more efficient and help me in tasks that are very common but are taking too much time off my schedule + I can always change its code to program it the way I want.
